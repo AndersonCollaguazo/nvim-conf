@@ -1,4 +1,4 @@
-# nvim-conf
+
 # Neovim with lua
 ## _My personal editor_
 
