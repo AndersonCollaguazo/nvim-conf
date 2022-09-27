@@ -2,8 +2,10 @@
 # Neovim with lua
 ## _My personal editor_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+![alt text](https://github.com/AndersonCollaguazo/nvim-conf/blob/main/images/Screenshot_2022-09-26-23-11-34_1920x1080.png)
+![alt text](https://github.com/AndersonCollaguazo/nvim-conf/blob/main/images/Screenshot_2022-09-26-23-18-59_1920x1080.png)
+![alt text](https://github.com/AndersonCollaguazo/nvim-conf/blob/main/images/Screenshot_2022-09-26-23-20-21_1920x1080.png)
 ## Plugins
 
 List of plugins to use
